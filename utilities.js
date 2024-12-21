@@ -9,5 +9,6 @@ function product(num1,num2){
 }
 
 function newFeature(){
-    console.log("new feature is added.")
+    console.log("new feature is added.");
+    console.log("new feature added again");
 }
