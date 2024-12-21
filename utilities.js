@@ -7,3 +7,7 @@ function product(num1,num2){
     var product = num1 * num2;
     console.log("Product will be:" + product);
 }
+
+function newFeature(){
+    console.log("new feature is added.")
+}
